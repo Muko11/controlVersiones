@@ -12,3 +12,27 @@ Nos proporciona las siguientes ventajas:
 - El código final se ejecuta de forma muy eficiente y rápida.
 - El peso de la aplicación final es muy pequeño.
 - Facilita la programación reactiva.
+
+## Iniciar un proyecto Svelte
+
+Para iniciar un proyecto de svelte, ejecutamos:
+
+```console
+npx degit sveltejs/template nombre-proyecto
+```
+> Nota: Sustituimos *nombre-proyecto* por el nombre que queramos darle a nuestro proyecto.
+
+## Vista previa del Frontend
+
+### Página de Inicio
+![Página de inicio](url de la imagen)
+
+
+### Página de Alumnos
+
+
+
+### Página de Profesores
+
+
+
