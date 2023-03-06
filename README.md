@@ -1,6 +1,6 @@
 # Frontend con Svelte
 
-> - Para ver todo el código completo, revisar el código fuente de este repositorio.
+> **¡Importante!** Este repositorio es una práctica de control de versiones con GitHub. Para acceder a Instituto Frontend desplegado en Vercel deberá acceder al siguiente repositorio: **[institutoFrontend](https://github.com/Muko11/institutoFrontend)**
 > - La parte backend de esta aplicación puede verse en **[institutoApi](https://github.com/Muko11/institutoApi)**
 
 ## ¿Qué es Svelte?
@@ -25,14 +25,23 @@ npx degit sveltejs/template nombre-proyecto
 ## Vista previa del Frontend
 
 ### Página de Inicio
-![Página de inicio](url de la imagen)
+![Página de inicio](https://github.com/Muko11/controlVersiones/blob/main/images/inicio.PNG)
 
 
 ### Página de Alumnos
-
+![Página de alumnos](https://github.com/Muko11/controlVersiones/blob/main/images/alumnos.PNG)
 
 
 ### Página de Profesores
+![Página de profesores](https://github.com/Muko11/controlVersiones/blob/main/images/profesores.PNG)
 
 
+## Conclusion
+En esta práctica hemos aprendido a:
 
+- Configurar una clave SSH
+- Utilizar los comandos más frecuentes de git
+  * git add
+  * git remote
+  * ...
+- Utilizar la sintaxis Markdown para el archivo README.md
