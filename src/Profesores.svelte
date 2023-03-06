@@ -6,6 +6,7 @@
     import BotonProfesores from "./BotonProfesores.svelte";
     import Profesor from "./Profesor.svelte";
 
+
     let profesorInsertar = {};
 
     let datosFiltrados = [];
